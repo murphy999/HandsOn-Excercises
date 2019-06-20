@@ -6,5 +6,13 @@ R Programming Language Exercises
   <li>firstVectorObject</li>
   <li>Matrices</li>
   <li>Loops</li>
+  <li>Subsetting & Selecting Value</li>
   <li>Mini Project 1 - Weighted Dice</li>
+</ol>
+<hr>
+<strong>Phase 2</strong>
+<ol>
+  <li></li>
+  <li></li>
+  <li>Mini Project 2 - Slot Machine</li>
 </ol>
