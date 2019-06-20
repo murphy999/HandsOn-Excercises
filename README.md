@@ -13,6 +13,6 @@ R Programming Language Exercises
 <strong>Phase 2</strong>
 <ol>
   <li></li>
-  <li></li>
+  <li>Vectorized Code</li>
   <li>Mini Project 2 - Slot Machine</li>
 </ol>
