@@ -15,5 +15,6 @@ R Programming Language Exercises
   <li>Vectorized Code</li>
   <li>String Manipulation</li>
   <li>Data Frame Manipulation</li>
+  <li>Data Pre-processing</li>
   <li>Mini Project 2 - Slot Machine</li>
 </ol>
