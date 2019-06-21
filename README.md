@@ -12,7 +12,8 @@ R Programming Language Exercises
 <hr>
 <strong>Phase 2</strong>
 <ol>
-  <li></li>
   <li>Vectorized Code</li>
+  <li>String Manipulation</li>
+  <li>Data Frame Manipulation</li>
   <li>Mini Project 2 - Slot Machine</li>
 </ol>
