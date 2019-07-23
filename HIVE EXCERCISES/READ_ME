@@ -1,0 +1,32 @@
+HDFS COMMANDS
+- Create Folder in Hive Directory
+- Add Data from Local Machine to Hive Directory
+
+Hive_Queries_1 [DML & DDL]
+- Create Table
+- Describe Table
+- Alter Table
+- Insert Data
+- Display Data
+- Queries
+
+Hive_Queries_2
+- Buckets
+
+Hive_Queries_3
+- Partitions
+
+Hive_Queries_4
+- Windowing / Analytic Functions
+
+Hive_Queries_5
+- User Defined Functions (UDF) in Python
+
+Hive Scripts
+- Command to run hive scripts(.hql / .sql) : hive -f filename.hql/.sql
+- pokemon.hql (Create Partition)
+- pokemon_index.sql (Create Index)
+
+DATA
+- Migrants Death Report (txt file)
+- Pokemon Data (csv file)
